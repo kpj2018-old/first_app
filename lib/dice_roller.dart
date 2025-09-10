@@ -9,6 +9,8 @@ class DiceRoller extends StatefulWidget {
     return _DiceRollerState();
   }
 }
+//
+//
 
 // underscore no nome da classe signifca que é  uma classe privada.
 // deriva da de cima.
